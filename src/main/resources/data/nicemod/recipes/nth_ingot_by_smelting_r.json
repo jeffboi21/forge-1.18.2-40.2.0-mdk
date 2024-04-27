@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "nicemod:raw_nth"
+  },
+  "result": "nicemod:nth_ingot",
+  "experience": 50,
+  "cookingtime": 300
+}

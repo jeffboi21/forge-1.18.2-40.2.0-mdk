@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "nicemod:nth_ore",
+    "nicemod:deepslate_nth_ore",
+    "nicemod:netherrack_nth_ore",
+    "nicemod:endstone_nth_ore"
+  ]
+}

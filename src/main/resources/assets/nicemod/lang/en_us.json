@@ -1,0 +1,21 @@
+{
+  "item.nicemod.silk" : "Silk",
+  "item.nicemod.bowstring" : "Bowstring",
+  "item.nicemod.artemis" : "Artemis' Longbow",
+  "item.nicemod.nth_ingot" : "Nth Ingot",
+  "item.nicemod.raw_nth" : "Raw Nth",
+  "item.nicemod.firewood" : "Fire Wood",
+
+
+  "block.nicemod.nth_ore" : "Nth Ore",
+  "block.nicemod.deepslate_nth_ore" : "Deepslate Nth Ore",
+  "block.nicemod.netherrack_nth_ore" : "Netherrack Nth Ore",
+  "block.nicemod.endstone_nth_ore" : "Endstone Nth Ore",
+  "block.nicemod.nth_block" : "Nth Block",
+  "block.nicemod.raw_nth_block" : "Raw Nth Block",
+  "block.nicemod.speedy_block" : "Asphalt",
+  "block.nicemod.healthy_block" : "Block Of Life",
+  "block.nicemod.deadly_block" : "Block Of Death",
+
+  "itemGroup.nicetab": "Nice Tab"
+}

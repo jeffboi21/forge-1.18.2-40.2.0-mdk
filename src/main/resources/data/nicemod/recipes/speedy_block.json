@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#+#",
+    "+N+",
+    "#+#"
+  ],
+  "key": {
+    "N": {
+      "item": "minecraft:potion{Potion:swiftness}"
+    },
+    "#": {
+      "item": "minecraft:gravel"
+    },
+    "+": {
+      "item": "minecraft:sand"
+    }
+  },
+  "result": {
+    "item": "nicemod:speedy_block"
+  }
+}

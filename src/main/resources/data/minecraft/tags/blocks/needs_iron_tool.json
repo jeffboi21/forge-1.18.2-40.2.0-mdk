@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "nicemod:nth_block",
+    "nicemod:raw_nth_block",
+    "nicemod:speedy_block",
+    "nicemod:healthy_block",
+    "nicemod:deadly_block"
+  ]
+}

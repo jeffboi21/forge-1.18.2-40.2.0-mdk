@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "nicemod:netherrack_nth_ore"
+  },
+  "result": "nicemod:nth_ingot",
+  "experience": 100,
+  "cookingtime": 400
+}

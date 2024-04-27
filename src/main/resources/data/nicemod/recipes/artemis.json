@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "# W",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:stick"
+    },
+    "W": {
+      "item": "nicemod:bowstring"
+    }
+  },
+  "result": {
+    "item": "nicemod:artemis"
+  }
+}

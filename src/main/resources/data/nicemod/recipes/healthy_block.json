@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#+#",
+    "+N+",
+    "#+#"
+  ],
+  "key": {
+    "N": {
+      "item": "minecraft:potion{Potion:regeneration}"
+    },
+    "#": {
+      "item": "minecraft:gravel"
+    },
+    "+": {
+      "item": "minecraft:sand"
+    }
+  },
+  "result": {
+    "item": "nicemod:healthy_block"
+  }
+}

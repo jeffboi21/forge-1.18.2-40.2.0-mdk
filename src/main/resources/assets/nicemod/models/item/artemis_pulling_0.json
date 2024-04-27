@@ -1,0 +1,6 @@
+{
+    "parent": "nicemod:item/artemis",
+    "textures": {
+        "layer0": "nicemod:item/artemis_pulling_0"
+    }
+}

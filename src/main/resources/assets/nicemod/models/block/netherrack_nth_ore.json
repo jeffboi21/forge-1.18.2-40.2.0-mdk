@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "nicemod:block/netherrack_nth_ore"
+  }
+}
